@@ -1,2 +1,2 @@
 # apps-iot-device
-A copy of the GSG Tech repo
+Applications for IoT Devices
